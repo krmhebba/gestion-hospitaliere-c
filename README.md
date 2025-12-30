@@ -31,4 +31,4 @@ Le projet comprend une modélisation UML détaillée (fichier .mdj) incluant :
 3. Lancer l'exécutable généré.
 
 ## Auteurs
-Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri.
+Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
