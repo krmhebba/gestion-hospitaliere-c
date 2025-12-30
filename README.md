@@ -25,10 +25,5 @@ Le projet comprend une modélisation UML détaillée (fichier .mdj) incluant :
 * **Diagramme de Classes :** Structure des entités (Patient, DossierMédical, Médecin, Utilisateur).
 * **Diagrammes de Séquence et d'Activité :** Modélisation des flux de connexion et de gestion des dossiers.
 
-## Installation
-1. Cloner le dépôt.
-2. Compiler le fichier source `Gestion d’un hôpital intelligent.c`.
-3. Lancer l'exécutable généré.
-
 ## Auteurs
 Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
